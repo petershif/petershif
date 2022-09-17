@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @petershif
 - 👀 I’m interested in books crypto and learn to code
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript and java
 - 💞️ I’m looking to collaborate on everything crypto and code related 
 - 📫 How to reach me discord : petershiff#0474
 
